@@ -43,7 +43,7 @@ Cpp Complete is a comprehensive repository for learning and exploring C++ progra
 
 ## Contributing
 
-Contributions are welcome! Follow the guidelines in CONTRIBUTING.md.
+Contributions are welcome!
 
 ## License
 
