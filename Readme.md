@@ -24,29 +24,29 @@ Cpp Complete is a comprehensive repository for learning and exploring C++ progra
 8. Explore project examples and customize or contribute to them.
 
 ## Topics Covered
-- 1. C++ basics
-- 2. Conditional Statements 
-- 3. Loops
-- 4. Arrays
-- 5. Pointers
-- 6. Strings
-- 7. Functions
-- 8. Intro to OOPS
-- 9. Operator Overloading
-- 10. Inheritance
-- 11. Base Class Pointer Derived Class Object 
-- 12. Polymorphism
-- 13. Friend ans Static Members
-- 14. Exception Handling
-- 15. Template Function and Classes
-- 16. Constant, Preprocessor Directive and Namespaces
-- 17. Destructor and Virtual Destructors
-- 18. I/O Streams
-- 19. STL
-- 20. C++ 11
-- 21. Banking System
-- 22. Number System 
-- 23. Data Types
+    C++ basics
+    Conditional Statements 
+    Loops
+    Arrays
+    Pointers
+    Strings
+    Functions
+    Intro to OOPS
+    Operator Overloading
+    Inheritance
+    Base Class Pointer Derived Class Object 
+    Polymorphism
+    Friend and Static Members
+    Exception Handling
+    Template Function and Classes
+    Constant, Preprocessor Directive and Namespaces
+    Destructor and Virtual Destructors
+    I/O Streams
+    STL
+    C++ 11
+    Banking System
+    Number System 
+    Data Types
 
 
 ## Project
